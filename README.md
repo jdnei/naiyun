@@ -1,5 +1,5 @@
 # naiyun奈云机场官方地址
-最新地址：[www.v2ny.de](https://www.v2ny.de/#/register?code=KacwlzHN)
+最新地址：[www.v2ny.de](https://www.v2ny.de/#/register?code=QPB5cCmr)
 ## 简介
 “奈云机场”通常指的是一种提供网络加速服务的“机场”，这类服务旨在帮助用户突破网络限制，访问被屏蔽的海外网站或服务。以下是一些关于这类服务的通用信息，以及我找到的关于“奈云机场”的相关信息：
 ## 奈云机场优惠码
