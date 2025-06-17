@@ -1,5 +1,5 @@
 # naiyun奈云机场官方地址
-最新地址：[www.v2ny.de](https://www.v2ny.de/#/register?code=QPB5cCmr)   
+最新地址：[www.v2ny.me](https://www.v2ny.me?path=register&code=KacwlzHN)   
 永久地址：[www.v2ny.com](https://www.v2ny.com/#/register?code=QPB5cCmr)   
 最新官网地址：[www.naiun.me](https://www.naiun.me)   
 ## 简介
@@ -8,8 +8,8 @@
 邀请码：QPB5cCmr  
 用邀请码注册，可免费体验3天无限流量的服务。
 ## 下单时折扣码
-奈云的折扣码：51510  
-注：优惠有效期至2025年05月10日
+奈云的折扣码：618  
+注：优惠有效期至2025年06月22日
 ## 优势
 国际Global Accelerator专线加速网络，全节点SLA保障；  
 支持 Windows/MacOS/Linux/Android/iOS 等全平台代理客户端；  
