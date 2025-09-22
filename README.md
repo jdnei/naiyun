@@ -27,7 +27,7 @@
 ## 2025年09月 联通 测速
 ![imgage](https://github.com/jdnei/naiyun/blob/main/img/LT-photo_2025-09-01_04-33-58.jpg)
 ## 2025年09月 电信 测速
-![imgage](https://github.com/jdnei/naiyun/blob/main/img/DX-photo_2025-09-01_04-34-17.jpg)
+![imgage](https://github.com/jdnei/naiyun/blob/main/img/YD-MiaoKo-%20.%20.cn-5221-speed.png)
 
 ## 优势
 国际Global Accelerator专线加速网络，全节点SLA保障；  
