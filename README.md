@@ -12,7 +12,7 @@ QPB5cCmr
 ## 邀请码新用户，可用折扣码下单75折
 新户首单年费可用折扣码：    
 ```bash
-1212
+0101
 ```
 ![image](https://github.com/jdnei/naiyun/blob/main/img/QQ20251104-095245.png)
 ## 套餐
