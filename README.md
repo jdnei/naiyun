@@ -14,7 +14,7 @@ QPB5cCmr
 ```bash
 0217
 ```
-![image](https://github.com/jdnei/naiyun/blob/main/img/QQ20251104-095245.png)
+![image](https://github.com/jdnei/naiyun/blob/main/img/QQ20251104-095245.png?raw=true)
 ## 套餐
 | 套餐名称          | 价格        | 计费方式   | 每月流量/总流量 | 使用期限     | 支持设备数 | 速度上限      | 专线网络 | 流媒体解锁 | 机房专柜 | 账号分享 | 备注                 |
 | --------------- | ----------- | -------- | ------------- | -------- | -------- | ----------- | -------- | -------- | -------- | -------- | -------------------- |
@@ -25,14 +25,14 @@ QPB5cCmr
 | 680G [按量计费]   | ¥218.00     | 一次性   | 680G          | 不限时    | 5台      | 5000M       | 可用     | 支持     | 有       | 不允许   | 流量用完为止，多次购买无法叠加 |
 | 2048G [按量计费]  | ¥498.00     | 一次性   | 2048G         | 不限时    | 5台      | 5000M       | 可用     | 支持     | 有       | 不允许   | 流量用完为止，多次购买无法叠加，即将售罄 |
 ## 多媒体解锁
-![imgage](https://github.com/jdnei/naiyun/blob/main/img/naiyun-MiaoKo-%20.%20.cn-5578-test.png)
+![imgage](https://github.com/jdnei/naiyun/blob/main/img/naiyun-MiaoKo-%20.%20.cn-5578-test.png?raw=true)
 # 测速
 ## 2025年09月 移动 测速
-![imgage](https://github.com/jdnei/naiyun/blob/main/img/YD-photo_2025-09-01_04-33-34.jpg)
+![imgage](https://github.com/jdnei/naiyun/blob/main/img/YD-photo_2025-09-01_04-33-34.jpg?raw=true)
 ## 2025年09月 联通 测速
-![imgage](https://github.com/jdnei/naiyun/blob/main/img/LT-photo_2025-09-01_04-33-58.jpg)
+![imgage](https://github.com/jdnei/naiyun/blob/main/img/LT-photo_2025-09-01_04-33-58.jpg?raw=true)
 ## 2025年09月 电信 测速
-![imgage](https://github.com/jdnei/naiyun/blob/main/img/YD-MiaoKo-%20.%20.cn-5221-speed.png)
+![imgage](https://github.com/jdnei/naiyun/blob/main/img/YD-MiaoKo-%20.%20.cn-5221-speed.png?raw=true)
 
 ## 优势
 国际Global Accelerator专线加速网络，全节点SLA保障；  
