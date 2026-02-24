@@ -24,15 +24,7 @@ QPB5cCmr
 | 280G [按量计费]   | ¥98.00      | 一次性   | 280G          | 不限时    | 5台      | 5000M       | 可用     | 支持     | 有       | 不允许   | 流量用完为止，多次购买无法叠加 |
 | 680G [按量计费]   | ¥218.00     | 一次性   | 680G          | 不限时    | 5台      | 5000M       | 可用     | 支持     | 有       | 不允许   | 流量用完为止，多次购买无法叠加 |
 | 2048G [按量计费]  | ¥498.00     | 一次性   | 2048G         | 不限时    | 5台      | 5000M       | 可用     | 支持     | 有       | 不允许   | 流量用完为止，多次购买无法叠加，即将售罄 |
-## 多媒体解锁
-![imgage](https://github.com/jdnei/naiyun/blob/main/img/naiyun-MiaoKo-%20.%20.cn-5578-test.png?raw=true)
-# 测速
-## 2025年09月 移动 测速
-![imgage](https://github.com/jdnei/naiyun/blob/main/img/YD-photo_2025-09-01_04-33-34.jpg?raw=true)
-## 2025年09月 联通 测速
-![imgage](https://github.com/jdnei/naiyun/blob/main/img/LT-photo_2025-09-01_04-33-58.jpg?raw=true)
-## 2025年09月 电信 测速
-![imgage](https://github.com/jdnei/naiyun/blob/main/img/YD-MiaoKo-%20.%20.cn-5221-speed.png?raw=true)
+
 
 ## 优势
 全球覆盖： 部署 149 个全球 POP 接入点，涵盖东南亚、欧美及部分稀缺地区。
