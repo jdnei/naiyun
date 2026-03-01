@@ -1,4 +1,4 @@
-# naiyun奈云机场官方地址(2026年2月28日更新)
+# naiyun奈云机场官方地址(2026年3月1日更新)
 最新地址：[www.v2ny.me](https://www.v2ny.me?path=register&code=KacwlzHN)   
 永久地址：[www.v2ny.com](https://www.v2ny.com/#/register?code=QPB5cCmr)   
 最新官网地址：[www.naiun.me](https://www.naiun.me)   
