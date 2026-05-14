@@ -3,7 +3,6 @@
 永久地址：[www.v2ny.com](https://www.v2ny.com/#/register?code=QPB5cCmr)   
 最新官网地址01：[www.naiun.me](https://www.v2ny.de/#/register?code=QPB5cCmr)   
 最新官网地址02：[v2ny888.top](https://v2ny888.top/#/register?code=QPB5cCmr)   
-https://v2ny888.top
 ## 简介
 “奈云”是一款专业的网络链路优化服务，支持全球 140+ 接入点。旨在为跨境办公、海外学术搜索及影音爱好者提供稳定的网络加速支持。
 ## 奈云机场邀请码：      
