@@ -27,9 +27,14 @@ welcome
 | 680G [按量计费]   | ¥218.00     | 一次性   | 680G          | 不限时    | 5台      | 5000M       | 可用     | 支持     | 有       | 不允许   | 流量用完为止，多次购买无法叠加 |
 | 2048G [按量计费]  | ¥498.00     | 一次性   | 2048G         | 不限时    | 5台      | 5000M       | 可用     | 支持     | 有       | 不允许   | 流量用完为止，多次购买无法叠加，即将售罄 |
 
-
 ## 优势
 全球覆盖： 部署 149 个全球 POP 接入点，涵盖东南亚、欧美及部分稀缺地区。
 企业级链路： 采用 Global Accelerator 国际专线技术，全节点 SLA 高可用保障。
 超高清支持： 优化了对主流 4K/8K 视频流媒体的传输效率，延迟极低。  
-
+## 📊 性能实测与分析  
+#### 1.晚高峰测速表现  
+![image](https://github.com/jdnei/naiyun/blob/main/naiyun/MiaoKo-%20.%20.cc-7737-speed.png?raw=ture)  
+#### 2.流媒体解锁报告  
+![image](https://github.com/jdnei/naiyun/blob/main/naiyun/MiaoKo-%20.%20.cc-5631-test.png?raw=ture)    
+#### 3.落地入口分析  
+![image](https://github.com/jdnei/naiyun/blob/main/naiyun/MiaoKo-%20.%20.cc-6461-analyze.png?raw=ture)
