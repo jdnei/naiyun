@@ -1,4 +1,4 @@
-# naiyun奈云机场官方地址(2026年6月10日更新)
+# naiyun奈云机场官方地址(2026年6月11日更新)
 <网站改版>啦  
 最新地址：[www.anyaff.cc](https://www.anyaff.cc/?path=register&code=KacwlzHN)   
 永久地址：[www.v2ny.com](https://www.v2ny.com/#/register?code=QPB5cCmr)   
