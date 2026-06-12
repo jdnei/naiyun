@@ -38,3 +38,14 @@ welcome
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/MiaoKo-%20.%20.cc-5631-test.png?raw=ture)    
 #### 3.落地入口分析  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/MiaoKo-%20.%20.cc-6461-analyze.png?raw=ture)
+#### 4.家宽纯净度分析  
+##### 1.美国  
+![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234465268.png?raw=ture)  
+##### 2.香港  
+![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234508008.png?raw=ture)  
+##### 3.台湾  
+![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234555188.png?raw=ture)  
+##### 4.日本  
+![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234584653.png?raw=ture)  
+##### 5.韩国  
+![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234622676.png?raw=ture)  
