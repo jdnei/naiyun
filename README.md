@@ -17,7 +17,7 @@ QPB5cCmr
 现在用此邀请码注册，可免费体验3天无限流量的服务。
 ## 邀请码新用户，可用折扣码下单  
 ```bash
-welcome
+NYNY
 ```
 免费期结束后，新户首单年费可用一次折扣码，可~~128元/年~~，XX元/年，优惠购买一年使用时间。  
 ![image](https://github.com/jdnei/naiyun/blob/main/img/QQ20251104-095245.png?raw=true)
