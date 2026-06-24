@@ -1,11 +1,11 @@
 # naiyun奈云机场官方地址(2026年6月24日更新)
 <网站改版>啦  
-最新地址：[www.anyaff.cc](https://www.anyaff.cc/?path=register&code=KacwlzHN)   
-永久地址：[www.v2ny.com](https://www.v2ny.com/#/register?code=QPB5cCmr)   
-最新官网地址01：[www.naiun.me](https://www.v2ny.de/#/register?code=QPB5cCmr)   
-最新官网地址02：[v13.v2ny.me](https://v13.v2ny.me/?path=register&code=KacwlzHN)   
+最新地址：[www.anyaff.cc](https://www.anyaff.cc/?path=register&code=KacwlzHN)</br>
+永久地址：[www.v2ny.com](https://www.v2ny.com/#/register?code=QPB5cCmr)</br>
+最新官网地址01：[www.naiun.me](https://www.v2ny.de/#/register?code=QPB5cCmr)</br>  
+最新官网地址02：[v13.v2ny.me](https://v13.v2ny.me/?path=register&code=KacwlzHN)</br> 
 ## Telegram VPN 机场福利社 #AD
-[机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)  
+[机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
 
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ## 简介
@@ -32,9 +32,9 @@ NYNY
 | 2048G [按量计费]  | ¥498.00     | 一次性   | 2048G         | 不限时    | 5台      | 5000M       | 可用     | 支持     | 有       | 不允许   | 流量用完为止，多次购买无法叠加，即将售罄 |
 
 ## 优势
-全球覆盖： 部署 149 个全球 POP 接入点，涵盖东南亚、欧美及部分稀缺地区。
-企业级链路： 采用 Global Accelerator 国际专线技术，全节点 SLA 高可用保障。
-超高清支持： 优化了对主流 4K/8K 视频流媒体的传输效率，延迟极低。  
+全球覆盖： 部署 149 个全球 POP 接入点，涵盖东南亚、欧美及部分稀缺地区。</br>
+企业级链路： 采用 Global Accelerator 国际专线技术，全节点 SLA 高可用保障。</br>
+超高清支持： 优化了对主流 4K/8K 视频流媒体的传输效率，延迟极低。</br>
 ## 📊 性能实测与分析  
 #### 1.晚高峰测速表现  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/MiaoKo-%20.%20.cc-7737-speed.png?raw=ture)  
@@ -43,13 +43,102 @@ NYNY
 #### 3.落地入口分析  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/MiaoKo-%20.%20.cc-6461-analyze.png?raw=ture)
 #### 4.家宽纯净度分析  
-##### 1.美国  
+##### 01.美国  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234465268.png?raw=ture)  
-##### 2.香港  
+##### 02.香港  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234508008.png?raw=ture)  
-##### 3.台湾  
+##### 03.台湾  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234555188.png?raw=ture)  
-##### 4.日本  
+##### 04.日本  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234584653.png?raw=ture)  
-##### 5.韩国  
+##### 05.韩国  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234622676.png?raw=ture)  
+#### 5.服务器状态整理
+| 分组  | 名称                                           | 协议     | 倍率   | 状态  | 负载  |
+| --- | -------------------------------------------- | ------ | ---- | --- | --- |
+| HK  | 🇭🇰 HKG·香港01 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
+| HK  | 🇭🇰 HKG·香港02 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
+| HK  | 🇭🇰 HKG·香港03 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
+| HK  | 🇭🇰 HKG·香港04 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
+| HK  | 🇭🇰 HKG·香港05 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
+| HK  | 🇭🇰 HKG·香港01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| HK  | 🇭🇰 HKG·香港02 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| HK  | 🇭🇰 HKG·香港03 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| HK  | 🇭🇰 HKG·香港05 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| HK  | 🇭🇰 HKG·香港06 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| HK  | 🇭🇰 HKG·香港07 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| HK  | 🇭🇰 HKG·香港08 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| HK  | 🇭🇰 HKG·香港09 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| HK  | 🇭🇰 HKG·香港10 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| HK  | 🇭🇰 HKG·香港ISP-家宽 ³ˣ                         | TROJAN | x3.0 | 在线  | 56% |
+| US  | 🇺🇸 USA·美国01 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
+| US  | 🇺🇸 USA·美国02 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
+| US  | 🇺🇸 USA·美国03 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
+| US  | 🇺🇸 USA·美国04 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
+| US  | 🇺🇸 USA·美国05 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
+| US  | 🇺🇸 USA·美国01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| US  | 🇺🇸 USA·美国02 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| US  | 🇺🇸 USA·美国03 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| US  | 🇺🇸 USA·美国05 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| US  | 🇺🇸 USA·美国06 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| US  | 🇺🇸 USA·美国07 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| US  | 🇺🇸 USA·美国08 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| US  | 🇺🇸 USA·美国09 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| US  | 🇺🇸 USA·美国10 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| US  | 🇺🇸 USA·美国ISP-家宽 ³ˣ                         | TROJAN | x3.0 | 在线  | 56% |
+| US  | 🇹🇼 TWN·台湾02 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| TW  | 🇹🇼 TWN·台湾01 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
+| TW  | 🇹🇼 TWN·台湾02 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
+| TW  | 🇹🇼 TWN·台湾01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| TW  | 🇹🇼 TWN·台湾03 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| TW  | 🇹🇼 TWN·台湾05 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| TW  | 🇹🇼 TWN·台湾06 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| TW  | 🇹🇼 TWN·台湾07 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| TW  | 🇹🇼 TWN·台湾08 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| TW  | 🇹🇼 TWN·台湾ISP-家宽 ³ˣ                         | TROJAN | x3.0 | 在线  | 56% |
+| SG  | 🇸🇬 SGP·新加坡01 ¹ˣ                            | TROJAN | x1.0 | 在线  | 11% |
+| SG  | 🇸🇬 SGP·新加坡02 ¹ˣ                            | TROJAN | x1.0 | 在线  | 11% |
+| SG  | 🇸🇬 SGP·新加坡01 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
+| SG  | 🇸🇬 SGP·新加坡02 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
+| SG  | 🇸🇬 SGP·新加坡03 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
+| SG  | 🇸🇬 SGP·新加坡05 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
+| SG  | 🇸🇬 SGP·新加坡06 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
+| JP  | 🇯🇵 JPN·日本01 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
+| JP  | 🇯🇵 JPN·日本02 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
+| JP  | 🇯🇵 JPN·日本01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| JP  | 🇯🇵 JPN·日本02 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| JP  | 🇯🇵 JPN·日本03 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| JP  | 🇯🇵 JPN·日本05 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| JP  | 🇯🇵 JPN·日本06 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| JP  | 🇯🇵 JPN·日本ISP-家宽 ³ˣ                         | TROJAN | x3.0 | 在线  | 56% |
+| KR  | 🇰🇷 KOR·韩国01 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
+| KR  | 🇰🇷 KOR·韩国02 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
+| KR  | 🇰🇷 KOR·韩国01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| KR  | 🇰🇷 KOR·韩国02 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| KR  | 🇰🇷 KOR·韩国03 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| KR  | 🇰🇷 KOR·韩国05 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| KR  | 🇰🇷 KOR·韩国06 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| KR  | 🇰🇷 KOR·韩国ISP-家宽 ³ˣ                         | TROJAN | x3.0 | 在线  | 56% |
+| TH  | 🇹🇭 THA·泰国01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| TH  | 🇹🇭 THA·泰国02 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| TH  | 🇹🇭 THA·泰国03 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| MY  | 🇲🇾 MYS·马来西亚01 ³ˣ                           | TROJAN | x3.0 | 在线  | 56% |
+| MY  | 🇲🇾 MYS·马来西亚ISP-家宽 ³ˣ                       | TROJAN | x3.0 | 在线  | 56% |
+| VN  | 🇻🇳 VNM·越南01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| PH  | 🇵🇭 PHL·菲律宾01 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
+| ID  | 🇮🇩 IDN·印度尼西亚01 ³ˣ                          | TROJAN | x3.0 | 在线  | 56% |
+| TR  | 🇹🇷 TUR·土耳其01 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
+| TR  | 🇹🇷 TUR·土耳其02 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
+| TR  | 🇹🇷 TUR·土耳其03 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
+| GB  | 🇬🇧 GBR·英国01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| GB  | 🇬🇧 GBR·英国02 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| GB  | 🇬🇧 GBR·英国03 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| DE  | 🇩🇪 DEU·德国01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| FR  | 🇫🇷 FRA·法国01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| BR  | 🇧🇷 BRA·巴西01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
+| AE  | 🇦🇪 ARE·阿联酋01 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
+| 未分组 | 🇨🇳如遇节点失效，请尝试更新订阅                           | VMESS  | x3.0 | 维护中 | —   |
+| 未分组 | 🇨🇳永久地址：[WWW.V2NY.COM](http://WWW.V2NY.COM) | VMESS  | x3.0 | 维护中 | —   |
+| 未分组 | 🇨🇳大陆访问：v13.v2ny.me                         | VMESS  | x3.0 | 维护中 | —   |
+| 未分组 | 🇨🇳[官方]👇Telegram群组👇                       | VMESS  | x3.0 | 维护中 | —   |
+| 未分组 | 🇨🇳欢迎加入👉@V2NAIUN👈                         | VMESS  | x3.0 | 维护中 | —   |
