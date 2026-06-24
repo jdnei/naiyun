@@ -1,7 +1,7 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 # Официальный адрес naiyun Naiyun Airport (обновлено 24 июня 2026 года)
 
-<Сайт обновлен>
+
 Актуальный адрес: [www.anyaff.cc](https://www.anyaff.cc/?path=register&code=KacwlzHN)</br>
 Постоянный адрес: [www.v2ny.com](https://www.v2ny.com/#/register?code=QPB5cCmr)</br>
 Актуальный официальный адрес сайта 01: [www.naiun.me](https://www.v2ny.de/#/register?code=QPB5cCmr)</br>
