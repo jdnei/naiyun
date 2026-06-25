@@ -46,15 +46,15 @@ NYNY
 #### 3.落地入口分析  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/MiaoKo-%20.%20.cc-6461-analyze.png?raw=ture)
 #### 4.家宽纯净度分析  
-##### 01.美国  
+##### 1.美国  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234465268.png?raw=ture)  
-##### 02.香港  
+##### 2.香港  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234508008.png?raw=ture)  
-##### 03.台湾  
+##### 3.台湾  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234555188.png?raw=ture)  
-##### 04.日本  
+##### 4.日本  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234584653.png?raw=ture)  
-##### 05.韩国  
+##### 5.韩国  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234622676.png?raw=ture)  
 #### 5.服务器状态整理
 | 分组  | 名称                                           | 协议     | 倍率   | 状态  | 负载  |
