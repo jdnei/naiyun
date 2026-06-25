@@ -1,5 +1,5 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
-# naiyun Naiyun Airport Official Address (Updated on June 24, 2026)
+# naiyun Naiyun Airport Official Address (Updated June 25, 2026)
 
 Latest Address: [www.anyaff.cc](https://www.anyaff.cc/?path=register&code=KacwlzHN)</br>
 Permanent Address: [www.v2ny.com](https://www.v2ny.com/#/register?code=QPB5cCmr)</br>
