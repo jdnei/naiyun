@@ -141,7 +141,7 @@ NYNY
 | BR  | 🇧🇷 BRA·巴西01 ³ˣ                             | TROJAN | x3.0 | 在线  | 56% |
 | AE  | 🇦🇪 ARE·阿联酋01 ³ˣ                            | TROJAN | x3.0 | 在线  | 56% |
 | 未分组 | 🇨🇳如遇节点失效，请尝试更新订阅                           | VMESS  | x3.0 | 维护中 | —   |
-| 未分组 | 🇨🇳永久地址：[WWW.V2NY.COM](http://WWW.V2NY.COM) | VMESS  | x3.0 | 维护中 | —   |
+| 未分组 | 🇨🇳永久地址：[WWW.V2NY.COM](https://github.com/jdnei/naiyun) | VMESS  | x3.0 | 维护中 | —   |
 | 未分组 | 🇨🇳大陆访问：v13.v2ny.me                         | VMESS  | x3.0 | 维护中 | —   |
 | 未分组 | 🇨🇳[官方]👇Telegram群组👇                       | VMESS  | x3.0 | 维护中 | —   |
 | 未分组 | 🇨🇳欢迎加入👉@V2NAIUN👈                         | VMESS  | x3.0 | 维护中 | —   |
