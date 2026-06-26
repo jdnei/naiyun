@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# naiyun奈云机场官方地址(2026年6月25日更新)
+# naiyun奈云机场官方地址(2026年6月26日更新)
  
 最新地址：[www.anyaff.cc](https://www.anyaff.cc/?path=register&code=KacwlzHN)</br>
 永久地址：[www.v2ny.com](https://www.v2ny.com/#/register?code=QPB5cCmr)</br>
