@@ -12,7 +12,7 @@
 
 [https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 ## 简介
-“奈云”是一款专业的网络链路优化服务，支持全球 58 接入点并且配有[美国家宽](https://github.com/jdnei/naiyun#1%E7%BE%8E%E5%9B%BD)，[香港家宽](https://github.com/jdnei/naiyun#2%E9%A6%99%E6%B8%AF)，[台湾家宽](https://github.com/jdnei/naiyun#3%E5%8F%B0%E6%B9%BE)，[日本家宽](https://github.com/jdnei/naiyun#4%E6%97%A5%E6%9C%AC)，[韩国家宽](https://github.com/jdnei/naiyun#5%E9%9F%A9%E5%9B%BD)，马来西亚家宽。旨在为跨境办公、海外学术搜索及影音爱好者提供稳定的网络加速支持。
+“奈云”是一款专业的网络链路优化服务，支持全球 86 接入点并且配有[美国家宽](https://github.com/jdnei/naiyun#1%E7%BE%8E%E5%9B%BD)，[香港家宽](https://github.com/jdnei/naiyun#2%E9%A6%99%E6%B8%AF)，[台湾家宽](https://github.com/jdnei/naiyun#3%E5%8F%B0%E6%B9%BE)，[日本家宽](https://github.com/jdnei/naiyun#4%E6%97%A5%E6%9C%AC)，[韩国家宽](https://github.com/jdnei/naiyun#5%E9%9F%A9%E5%9B%BD)，马来西亚家宽。旨在为跨境办公、海外学术搜索及影音爱好者提供稳定的网络加速支持。
 ## 奈云机场邀请码
 此邀请码注册，可免费体验3天无限流量的服务。</br>
 ```bash
@@ -32,10 +32,9 @@ NYNY
 | Max-专业套餐      | ¥58.00      | 每月     | 788G          | 每月     | 5台      | 5000M       | 可用     | 支持     | 有       | 不允许   | 订单日自动重置         |
 | 280G [按量计费]   | ¥98.00      | 一次性   | 280G          | 不限时    | 5台      | 5000M       | 可用     | 支持     | 有       | 不允许   | 流量用完为止，多次购买无法叠加 |
 | 680G [按量计费]   | ¥258.00     | 一次性   | 680G          | 不限时    | 5台      | 5000M       | 可用     | 支持     | 有       | 不允许   | 流量用完为止，多次购买无法叠加 |
-| 2048G [按量计费]  | ¥498.00     | 一次性   | 2048G         | 不限时    | 5台      | 5000M       | 可用     | 支持     | 有       | 不允许   | 流量用完为止，多次购买无法叠加，即将售罄 |
 
 ## 优势
-全球覆盖： 部署 149 个全球 POP 接入点，涵盖东南亚、欧美及部分稀缺地区。</br>
+全球覆盖： 部署 86 个全球 POP 接入点，涵盖东南亚、欧美及部分稀缺地区。</br>
 企业级链路： 采用 Global Accelerator 国际专线技术，全节点 SLA 高可用保障。</br>
 超高清支持： 优化了对主流 4K/8K 视频流媒体的传输效率，延迟极低。</br>
 ## 📊 性能实测与分析  
