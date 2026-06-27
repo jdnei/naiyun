@@ -1,5 +1,5 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
-# آدرس رسمی naiyun Naiyun Airport (به‌روزرسانی 26 ژوئن 2026)
+# آدرس رسمی naiyun Naiyun Airport (به‌روزرسانی 27 ژوئن 2026)
 
 <وب‌سایت بازطراحی شده است>
 آخرین آدرس: [www.anyaff.cc](https://www.anyaff.cc/?path=register&code=KacwlzHN)</br>
