@@ -5,10 +5,10 @@
 naiyun奈云机场官网地址</br>
 `突发失联，疑似跑路`</br>
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
-最新地址：~~[www.anyaff.cc](https://www.anyaff.cc/?path=register&code=KacwlzHN)</br>~~
-永久地址：~~[www.v2ny.com](https://www.v2ny.com/#/register?code=QPB5cCmr)</br>~~
-最新官网地址01：~~[www.naiun.me](https://www.v2ny.de/#/register?code=QPB5cCmr)</br>~~
-最新官网地址02：~~[v13.v2ny.me](https://v13.v2ny.me/?path=register&code=KacwlzHN)</br>~~
+最新地址：[www.anyaff.cc](https://naiun.ioc/?path=register&code=KacwlzHN)</br>
+永久地址：[www.v2ny.com](https://naiun.io/#/register?code=QPB5cCmr)</br>
+最新官网地址01：[www.naiun.me](https://naiun.io/#/register?code=QPB5cCmr)</br>
+最新官网地址02：[v13.v2ny.me](https://naiun.io/?path=register&code=KacwlzHN)</br>
 ## Telegram VPN 机场福利社 #AD
 [机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
 
