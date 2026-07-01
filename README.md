@@ -147,7 +147,8 @@ NYNY
 | 未分组 | 🇨🇳大陆访问：v13.v2ny.me                         | VMESS  | x3.0 | 维护中 | —   |
 | 未分组 | 🇨🇳[官方]👇Telegram群组👇                       | VMESS  | x3.0 | 维护中 | —   |
 | 未分组 | 🇨🇳欢迎加入👉@V2NAIUN👈                         | VMESS  | x3.0 | 维护中 | —   |
-## 账号套餐恢复
+## Recovery
+### 账号套餐恢复教程
 ```mermaid
 flowchart TD
     B[登录新网站：naiun.io]
