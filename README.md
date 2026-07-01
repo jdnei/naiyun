@@ -174,4 +174,5 @@ flowchart TD
     L -->|失败| P[未接收到邮箱验证码]
     P --> Q[等待邮箱服务器恢复]
     Q --> K
+    click B "https://naiun.io/#/register?code=KacwlzHN" "打开 naiun.io"
 ```
