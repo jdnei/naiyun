@@ -59,6 +59,9 @@ NYNY
 ##### 5.韩国  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/IPPure-1781234622676.png?raw=ture)  
 #### 5.服务器状态整理
+<details>
+<summary><strong>点击展开服务器列表</strong></summary>   
+    
 | 分组  | 名称                                           | 协议     | 倍率   | 状态  | 负载  |
 | --- | -------------------------------------------- | ------ | ---- | --- | --- |
 | HK  | 🇭🇰 HKG·香港01 ¹ˣ                             | TROJAN | x1.0 | 在线  | 11% |
@@ -147,6 +150,9 @@ NYNY
 | 未分组 | 🇨🇳大陆访问：v13.v2ny.me                         | VMESS  | x3.0 | 维护中 | —   |
 | 未分组 | 🇨🇳[官方]👇Telegram群组👇                       | VMESS  | x3.0 | 维护中 | —   |
 | 未分组 | 🇨🇳欢迎加入👉@V2NAIUN👈                         | VMESS  | x3.0 | 维护中 | —   |
+
+</details>
+
 ## Recovery
 ### 账号套餐恢复教程
 `流程解释权归奈云官方，可能随时有变化`</br>
