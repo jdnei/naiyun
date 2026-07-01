@@ -158,7 +158,7 @@ NYNY
 `流程解释权归奈云官方，可能随时有变化`</br>
 ```mermaid
 flowchart TD
-    B[登录新网站：naiun.io]
+    B[点击登录新网站：naiun.io]
     B --> C[说明：网站数据库暂时是 5 月份]
     C --> D{登录是否成功？}
 
@@ -167,19 +167,20 @@ flowchart TD
 
     F -->|还在| G[等网站恢复即可]
     F -->|不在| H[发工单，标题带订单二字]
-    H --> I[发付款截图https://pic.us.kg]
+    H --> I[点击https://pic.us.kg传图-发付款截图]
     I --> J[申请恢复套餐]
 
     D -->|失败| K[注册新账号]
     K --> L{注册是否成功？}
 
     L -->|成功| M[发工单，标题带订单二字]
-    M --> N[发付款截图https://pic.us.kg]
+    M --> N[点击https://pic.us.kg传图-发付款截图]
     N --> O[申请恢复套餐和账号]
 
     L -->|失败| P[未接收到邮箱验证码]
-    P --> Q[等待邮箱服务器恢复]
+    P --> Q[等待邮箱供应商风控恢复]
     Q --> K
     click B "https://naiun.io/#/register?code=KacwlzHN" "打开 naiun.io"
     click I "https://pic.us.kg" "打开 pic.us.kg"
+    click N "https://pic.us.kg" "打开 pic.us.kg"
 ```
