@@ -4,6 +4,7 @@
 # naiyun奈云机场官方地址(2026年7月1日更新)
 naiyun奈云机场官网地址</br>
 `6.30突发失联，7.1出现转机，进新官网，近期改过密码的用老密码登录`</br>
+教程：[账号套餐恢复](https://github.com/jdnei/naiyun/edit/main/README.md#%E8%B4%A6%E5%8F%B7%E5%A5%97%E9%A4%90%E6%81%A2%E5%A4%8D)</br>
 最新地址：[naiun.io](https://naiun.io/#/register?code=KacwlzHN)</br>
 永久地址：[naiun.io](https://naiun.io/#/register?code=QPB5cCmr)</br>
 最新官网地址01：[naiun.io](https://naiun.io/#/register?code=QPB5cCmr)</br>
@@ -146,3 +147,22 @@ NYNY
 | 未分组 | 🇨🇳大陆访问：v13.v2ny.me                         | VMESS  | x3.0 | 维护中 | —   |
 | 未分组 | 🇨🇳[官方]👇Telegram群组👇                       | VMESS  | x3.0 | 维护中 | —   |
 | 未分组 | 🇨🇳欢迎加入👉@V2NAIUN👈                         | VMESS  | x3.0 | 维护中 | —   |
+## 账号套餐恢复
+```mermaid
+flowchart TD
+    B[登录新网站：naiun.io]
+    B --> C[说明：网站数据库暂时是 5 月份]
+    B --> D{登录是否成功？}
+
+    D -->|成功| E[查看套餐是否还在]
+    E --> F{套餐是否还在？}
+    F -->|还在| G[等网站恢复即可]
+    F -->|不在| H[等工单恢复]
+    H --> I[发付款截图]
+    I --> J[申请恢复套餐]
+
+    D -->|失败| K[注册新账号]
+    K --> L[等工单恢复]
+    L --> M[发付款截图]
+    M --> N[申请恢复套餐和账号]
+```
