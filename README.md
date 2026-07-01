@@ -149,6 +149,7 @@ NYNY
 | 未分组 | 🇨🇳欢迎加入👉@V2NAIUN👈                         | VMESS  | x3.0 | 维护中 | —   |
 ## Recovery
 ### 账号套餐恢复教程
+`流程解释权归奈云官方，可能随时有变化`</br>
 ```mermaid
 flowchart TD
     B[登录新网站：naiun.io]
