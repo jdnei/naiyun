@@ -174,13 +174,13 @@ flowchart TD
     K --> L{注册是否成功？}
 
     L -->|成功| M[发工单，标题带订单二字]
-    M --> N[点击https://pic.us.kg传图-发付款截图]
+    M --> N["https://pic.us.kg</br>传图-发付款截图"]
     N --> O[申请恢复套餐和账号]
 
     L -->|失败| P[未接收到邮箱验证码]
     P --> Q[等待邮箱供应商风控恢复]
     Q --> K
-    click B "https://naiun.io/#/register?code=KacwlzHN" "打开 naiun.io"
-    click I "https://pic.us.kg" "打开 pic.us.kg"
-    click N "https://pic.us.kg" "打开 pic.us.kg"
+    click B "https://naiun.io/#/register?code=KacwlzHN" "打开 naiun.io" _blank
+    click I "https://pic.us.kg" "打开 pic.us.kg" _blank
+    click N "https://pic.us.kg" "打开 pic.us.kg" _blank
 ```
