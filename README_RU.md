@@ -1,5 +1,5 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
-# Официальный адрес naiyun Naiyun Airport (обновлено 1 июля 2026)
+# Официальный адрес naiyun Naiyun Airport (обновлено 2 июля 2026)
 
 
 Актуальный адрес: [www.anyaff.cc](https://www.anyaff.cc/?path=register&code=KacwlzHN)</br>
