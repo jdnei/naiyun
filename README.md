@@ -7,7 +7,7 @@ naiyun奈云机场官网地址</br>
 账号套餐恢复教程：[recovery](https://github.com/jdnei/naiyun#recovery)</br>
 最新地址：[naiun.io](https://naiun.io/#/register?code=KacwlzHN)</br>
 永久地址：[naiun.io](https://naiun.io/#/register?code=QPB5cCmr)</br>
-最新官网地址01：[naiun.io](https://naiun.io/#/register?code=QPB5cCmr)</br>
+最新官网地址01：[naiun.org](https://naiun.org/#/register?code=QPB5cCmr)</br>
 最新官网地址02：[naiun.io](https://naiun.io/#/register?code=KacwlzHN)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
