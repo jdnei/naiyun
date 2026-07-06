@@ -3,7 +3,7 @@
 
 # naiyun奈云机场官方地址(2026年7月5日更新)
 naiyun奈云机场官网地址</br>
-`6.30突发失联，7.1出现转机，进新官网，近期改过密码的用老密码登录`</br>
+`6.30突发失联，7.1出现转机，进⬇️⬇️新官网按⬇️⬇️流程恢复，7.5博主本人套餐已恢复`</br>
 账号套餐恢复教程：[recovery](https://github.com/jdnei/naiyun#recovery)</br>
 最新地址：[naiun.io](https://naiun.io/#/register?code=KacwlzHN)</br>
 永久地址：[naiun.io](https://naiun.io/#/register?code=QPB5cCmr)</br>
