@@ -5,9 +5,9 @@
 naiyun奈云机场官网地址</br>
 `6.30突发失联，7.1出现转机，进⬇️⬇️新官网按⬇️⬇️流程恢复，7.5博主本人年付套餐已恢复`</br>
 账号套餐恢复教程：[recovery](https://github.com/jdnei/naiyun#recovery)</br>
-最新地址01：[naiun.io](https://naiun.io/#/register?code=KacwlzHN)</br>
+最新地址01：[naiun.io](https://naiun.io/#/register?code=QPB5cCmr)</br>
 最新地址02：[naiun.org](https://naiun.org/#/register?code=QPB5cCmr)</br>
-官网地址：[naiun.one](https://naiun.one/#/register?code=KacwlzHN)</br>
+官网地址：[naiun.one](https://naiun.one/#/register?code=QPB5cCmr)</br>
 永久地址：[naiun.online](https://naiun.online/#/register?code=QPB5cCmr)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
@@ -18,13 +18,13 @@ naiyun奈云机场官网地址</br>
 ## 简介
 “奈云”是一款专业的网络链路优化服务，支持全球 86 接入点并且配有[美国家宽](https://github.com/jdnei/naiyun#1%E7%BE%8E%E5%9B%BD)，[香港家宽](https://github.com/jdnei/naiyun#2%E9%A6%99%E6%B8%AF)，[台湾家宽](https://github.com/jdnei/naiyun#3%E5%8F%B0%E6%B9%BE)，[日本家宽](https://github.com/jdnei/naiyun#4%E6%97%A5%E6%9C%AC)，[韩国家宽](https://github.com/jdnei/naiyun#5%E9%9F%A9%E5%9B%BD)，马来西亚家宽。旨在为跨境办公、海外学术搜索及影音爱好者提供稳定的网络加速支持。
 ## 奈云机场邀请码
-此邀请码注册，可免费体验3天无限流量的服务。</br>
+`此邀请码注册用户可免费领取10天/50GB套餐`
 ```bash
 QPB5cCmr
 ```
 ## 奈云机场折扣码
 ```bash
-NYNY
+RENEW_NAIUN_ONE
 ```
 免费期结束后，新户首单年费可用一次折扣码，可~~168元/年~~，XX元/年，优惠购买一年使用时间。  
 ![image](https://github.com/jdnei/naiyun/blob/main/img/QQ20260622-094015.jpg?raw=true)
