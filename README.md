@@ -23,6 +23,7 @@ naiyun奈云机场官网地址</br>
 QPB5cCmr
 ```
 ## 奈云机场折扣码
+`有效期至 2026 年 7 月 20 日 23:59`
 ```bash
 RENEW_NAIUN_ONE
 ```
