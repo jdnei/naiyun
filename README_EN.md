@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# naiyun Official Address (Updated July 10, 2026)
+# naiyun Official Address (Updated July 11, 2026)
 
 naiyun Official Website Address</br>
 `Sudden connection loss on 6.30, a turning point appeared on 7.1. Enter the ⬇️⬇️ new official website and follow the ⬇️⬇️ process to recover. As of 7.5, the blogger's own annual plan has been restored.`</br>
