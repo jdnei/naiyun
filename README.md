@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# naiyun奈云机场官方地址(2026年7月15日更新)
+# naiyun奈云机场官方地址(2026年7月16日更新)
 naiyun奈云机场官网地址</br>
 `6.30突发失联，7.1出现转机，进⬇️⬇️新官网按⬇️⬇️流程恢复，7.5博主本人年付套餐已恢复`</br>
 账号套餐恢复教程：[recovery](https://github.com/jdnei/naiyun#recovery)</br>
