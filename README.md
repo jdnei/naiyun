@@ -11,6 +11,7 @@ naiyun奈云机场官网地址</br>
 永久地址：[naiun.online](https://to.iix.im/ny01)</br>
 
 想体验专线的，没年付的，可以去试试绿叶云专线机场：[测评](https://github.com/jdnei/linkcube)</br>
+价格差不多的，也可以去看看星岛梦机场：[测评](https://github.com/jdnei/xingdaomeng)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
