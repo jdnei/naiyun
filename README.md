@@ -189,14 +189,14 @@ flowchart TD
 
     F -->|还在| G[等网站恢复即可]
     F -->|不在| H[网站右下角找在线客服提交材料]
-    H --> I["Ctrl+单击<br/>https://pic.us.kg<br/>传图-粘贴付款截图链接给在线客服"]
+    H --> I["Ctrl+单击<br/>https://pic.sl.al/<br/>传图-粘贴付款截图链接给在线客服"]
     I --> J[申请恢复套餐]
 
     D -->|失败| K[注册新账号]
     K --> L{注册是否成功？}
 
     L -->|成功| M[网站右下角找在线客服提交材料]
-    M --> N["Ctrl+单击<br/>https://pic.us.kg<br/>传图-粘贴付款截图链接发给在线客服"]
+    M --> N["Ctrl+单击<br/>https://pic.sl.al/<br/>传图-粘贴付款截图链接发给在线客服"]
     N --> O[申请恢复套餐和账号]
 
     L -->|失败| P[未接收到邮箱验证码]
@@ -204,6 +204,6 @@ flowchart TD
     Q --> K
 
     click A "https://naiun.io/#/register?code=KacwlzHN" "打开 naiun.io" _blank
-    click I "https://pic.us.kg" "打开 pic.us.kg" _blank
-    click N "https://pic.us.kg" "打开 pic.us.kg" _blank
+    click I "https://pic.sl.al" "打开 pic.sl.al" _blank
+    click N "https://pic.sl.al" "打开 pic.sl.al" _blank
 ```
