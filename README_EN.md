@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# Naiyun VPN Official Address (Updated August 16, 2026)
+# Naiyun VPN Official Address (Updated August 17, 2026)
 
 Naiyun VPN Official Website Address</br>
 `Unexpected outage on 6/30, signs of recovery appeared on 7/1. Enter the ⬇️⬇️ new official website and follow the ⬇️⬇️ process to restore your account. On 7/5, the blogger's own annual plan was successfully restored.`</br>
