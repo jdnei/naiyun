@@ -5,7 +5,7 @@
 naiyun奈云机场官网地址</br>
 `6.30突发失联，7.1出现转机，进⬇️⬇️新官网按⬇️⬇️流程恢复，7.5博主本人年付套餐已恢复`</br>
 账号套餐恢复教程：[recovery](https://github.com/jdnei/naiyun#recovery)</br>
-最新地址01：[naiun.io](https://to.iix.im/ny04)</br>
+最新地址01：[naiun.space](https://to.iix.im/ny04)</br>
 最新地址02：[naiun.org](https://to.iix.im/ny03)</br>
 官网地址：[naiun.one](https://to.iix.im/ny02)</br>
 永久地址：[naiun.online](https://to.iix.im/ny01)</br>
