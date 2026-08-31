@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# naiyun奈云机场官方地址(2026年8月30日更新)
+# naiyun奈云机场官方地址(2026年8月31日更新)
 naiyun奈云机场官网地址</br>
 `进⬇️⬇️新官网按⬇️⬇️流程恢复，7.5博主本人年付套餐已恢复`</br>
 账号套餐恢复教程：[recovery](https://github.com/jdnei/naiyun#recovery)</br>
@@ -17,7 +17,7 @@ naiyun奈云机场官网地址</br>
 
 ---
 
-![image.png](https://pic.sl.al/gdrive/pic/2026-08-30/fileid_foodEk1YAyDZzjBBVJrcQxWsq7auedzoO_image.png)
+![image.png](https://pic.sl.al/gdrive/pic/2026-08-30/fileid_foodEk1YAyDZzjBBVJrcQxWsq7auedzoO_image.png?raw=true)
 
 ---
 
