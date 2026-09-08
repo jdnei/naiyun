@@ -13,13 +13,7 @@ naiyun奈云机场官网地址</br>
 
 
 价格差不多的，也可以去看看NiceCloud机场：[测评](https://github.com/jdnei/nicecloud)</br>
-## 公告
 
----
-
-![image.png](https://pic.sl.al/gdrive/pic/2026-08-30/fileid_foodEk1YAyDZzjBBVJrcQxWsq7auedzoO_image.png?raw=true)
-
----
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
