@@ -3,8 +3,7 @@
 
 # naiyun奈云机场官方地址(2026年9月12日更新)
 naiyun奈云机场官网地址</br>
-`进⬇️⬇️新官网按⬇️⬇️流程恢复，7.5博主本人年付套餐已恢复`</br>
-账号套餐恢复教程：[recovery](https://github.com/jdnei/naiyun#recovery)</br>
+`品牌升级为GugaCloud咕嘎云，晚些上线`
 最新地址01：[naiun.space](https://to.iix.im/ny04)</br>
 最新地址02：[naiun.org](https://to.iix.im/ny03)</br>
 官网地址：[naiun.one](https://to.iix.im/ny02)</br>
