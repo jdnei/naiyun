@@ -28,9 +28,9 @@ naiyun奈云机场官网地址</br>
 QPB5cCmr
 ```
 ## 奈云机场折扣码/优惠码
-`有效期至 2026 年 8 月 26 日 23:59`
+`在有效期`
 ```bash
-NAIUN_MY_PARTNER
+TRUST20
 ```
 免费期结束后，新户首单年费可用一次折扣码，可~~168元/年~~，XX元/年，优惠购买一年使用时间。  
 ![image](https://github.com/jdnei/naiyun/blob/main/naiyun/photo_2026-07-07_10-46-17.jpg?raw=true)
