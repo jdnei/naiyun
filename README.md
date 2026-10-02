@@ -4,8 +4,8 @@
 # naiyun奈云机场官方地址(2026年10月2日更新)
 naiyun奈云机场官网地址</br>
 `品牌升级为GugaCloud咕嘎云`</br>
-跳转地址01：[gugacloud.cc](https://to.iix.im/gu03)</br>
-最新地址02：[naiun.org](https://to.iix.im/gu03)</br>
+跳转地址：[https://github.com/jdnei/guga](https://github.com/jdnei/guga)</br>
+最新地址：[gugacloud.cc](https://to.iix.im/gu03)</br>
 官网地址：[naiun.one](https://to.iix.im/gu02)</br>
 永久地址：[naiun.online](https://to.iix.im/gu01)</br>
 
